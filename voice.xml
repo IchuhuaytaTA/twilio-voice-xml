@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say language="es" voice="alice">La temperatura actual es de 50 grados Celsius.</Say>
+</Response>
